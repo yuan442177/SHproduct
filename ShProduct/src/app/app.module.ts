@@ -9,12 +9,17 @@ import { MainComponent } from './main/main.component';
 import { FooterComponent } from './footer/footer.component';
 import { JcComponent } from './jcfx/jc.component';
 import { NlphComponent } from './nlph/nlph.component';
-import { TabNavComponent } from './tab-nav/tab-nav.component'
+import { TabNavComponent } from './tab-nav/tab-nav.component';
+import { XtyhComponent } from './xtyh/xtyh.component'
+import { TjbbComponent } from './tjbb/tjbb.component'
 
 
 const routerCongig: Routes = [
   {path:'',component:MainComponent},
-  {path:'jcfx',component:JcComponent}
+  {path:'jcfx',component:JcComponent},
+  {path:'xtyh',component:XtyhComponent},
+  {path:'nlph',component:NlphComponent},
+  {path:'tjbb',component:TjbbComponent}
 ]
 
 @NgModule({
@@ -26,7 +31,9 @@ const routerCongig: Routes = [
     FooterComponent,
     JcComponent,
     NlphComponent,
-    TabNavComponent
+    TabNavComponent,
+    XtyhComponent,
+    TjbbComponent
   ],
   imports: [
     BrowserModule,
