@@ -1,0 +1,199 @@
+  <nav data-am-widget="menu" class="am-menu  am-menu-offcanvas1" data-am-menu-offcanvas>
+    <ul class="am-menu-nav am-avg-sm-1">
+      <li class="am-parent">
+        <a href="##" class="">一级菜单</a>
+        <ul class="am-menu-sub am-collapse  am-avg-sm-2 ">
+          <!-- 三级菜单 -->
+          <li class="am-parent">
+            <a href="##" class="">二级菜单</a>
+            <ul class="am-menu-sub am-collapse  am-avg-sm-1 ">
+                <li *ngFor="let lastTabs of lastTab" >{{lastTabs}}</li>
+            </ul>
+          </li>
+          <li class="am-parent">
+            <a href="##" class="">二级菜单</a>
+            <ul class="am-menu-sub am-collapse  am-avg-sm-1 ">
+              <li class="">
+                <a href="##" class="">三级菜单</a>
+              </li>
+              <li class="">
+                <a href="##" class="">三级菜单</a>
+              </li>
+              <li class="">
+                <a href="##" class="">三级菜单</a>
+              </li>
+              <li class="">
+                <a href="##" class="">三级菜单</a>
+              </li>
+              <li class="">
+                <a href="##" class="">三级菜单</a>
+              </li>
+              <li class="">
+                <a href="##" class="">三级菜单</a>
+              </li>
+            </ul>
+          </li>
+          <li class="am-parent">
+        </ul>
+        </li>
+        <li class="am-parent">
+          <a href="##" class="">一级菜单</a>
+          <ul class="am-menu-sub am-collapse  am-avg-sm-2 ">
+            <!-- 三级菜单 -->
+            <li class="am-parent">
+              <a href="##" class="">二级菜单</a>
+              <ul class="am-menu-sub am-collapse  am-avg-sm-1 ">
+                <li class="">
+                  <a href="##" class="">三级菜单</a>
+                </li>
+                <li class="">
+                  <a href="##" class="">三级菜单</a>
+                </li>
+                <li class="">
+                  <a href="##" class="">三级菜单</a>
+                </li>
+                <li class="">
+                  <a href="##" class="">三级菜单</a>
+                </li>
+                <li class="">
+                  <a href="##" class="">三级菜单</a>
+                </li>
+                <li class="">
+                  <a href="##" class="">三级菜单</a>
+                </li>
+              </ul>
+            </li>
+            <li class="am-parent">
+              <a href="##" class="">二级菜单</a>
+              <ul class="am-menu-sub am-collapse  am-avg-sm-1 ">
+                <li class="">
+                  <a href="##" class="">三级菜单</a>
+                </li>
+                <li class="">
+                  <a href="##" class="">三级菜单</a>
+                </li>
+                <li class="">
+                  <a href="##" class="">三级菜单</a>
+                </li>
+                <li class="">
+                  <a href="##" class="">三级菜单</a>
+                </li>
+                <li class="">
+                  <a href="##" class="">三级菜单</a>
+                </li>
+                <li class="">
+                  <a href="##" class="">三级菜单</a>
+                </li>
+              </ul>
+            </li>
+            <li class="am-parent">
+          </ul>
+          </li>
+          <li class="am-parent">
+            <a href="##" class="">一级菜单</a>
+            <ul class="am-menu-sub am-collapse  am-avg-sm-2 ">
+              <!-- 三级菜单 -->
+              <li class="am-parent">
+                <a href="##" class="">二级菜单</a>
+                <ul class="am-menu-sub am-collapse  am-avg-sm-1 ">
+                  <li class="">
+                    <a href="##" class="">三级菜单</a>
+                  </li>
+                  <li class="">
+                    <a href="##" class="">三级菜单</a>
+                  </li>
+                  <li class="">
+                    <a href="##" class="">三级菜单</a>
+                  </li>
+                  <li class="">
+                    <a href="##" class="">三级菜单</a>
+                  </li>
+                  <li class="">
+                    <a href="##" class="">三级菜单</a>
+                  </li>
+                  <li class="">
+                    <a href="##" class="">三级菜单</a>
+                  </li>
+                </ul>
+              </li>
+              <li class="am-parent">
+                <a href="##" class="">二级菜单</a>
+                <ul class="am-menu-sub am-collapse  am-avg-sm-1 ">
+                  <li class="">
+                    <a href="##" class="">三级菜单</a>
+                  </li>
+                  <li class="">
+                    <a href="##" class="">三级菜单</a>
+                  </li>
+                  <li class="">
+                    <a href="##" class="">三级菜单</a>
+                  </li>
+                  <li class="">
+                    <a href="##" class="">三级菜单</a>
+                  </li>
+                  <li class="">
+                    <a href="##" class="">三级菜单</a>
+                  </li>
+                  <li class="">
+                    <a href="##" class="">三级菜单</a>
+                  </li>
+                </ul>
+              </li>
+              <li class="am-parent">
+            </ul>
+            </li>
+            <li class="am-parent">
+              <a href="##" class="">一级菜单</a>
+              <ul class="am-menu-sub am-collapse  am-avg-sm-2 ">
+                <!-- 三级菜单 -->
+                <li class="am-parent">
+                  <a href="##" class="">二级菜单</a>
+                  <ul class="am-menu-sub am-collapse  am-avg-sm-1 ">
+                    <li class="">
+                      <a href="##" class="">三级菜单</a>
+                    </li>
+                    <li class="">
+                      <a href="##" class="">三级菜单</a>
+                    </li>
+                    <li class="">
+                      <a href="##" class="">三级菜单</a>
+                    </li>
+                    <li class="">
+                      <a href="##" class="">三级菜单</a>
+                    </li>
+                    <li class="">
+                      <a href="##" class="">三级菜单</a>
+                    </li>
+                    <li class="">
+                      <a href="##" class="">三级菜单</a>
+                    </li>
+                  </ul>
+                </li>
+                <li class="am-parent">
+                  <a href="##" class="">二级菜单</a>
+                  <ul class="am-menu-sub am-collapse  am-avg-sm-1 ">
+                    <li class="">
+                      <a href="##" class="">三级菜单</a>
+                    </li>
+                    <li class="">
+                      <a href="##" class="">三级菜单</a>
+                    </li>
+                    <li class="">
+                      <a href="##" class="">三级菜单</a>
+                    </li>
+                    <li class="">
+                      <a href="##" class="">三级菜单</a>
+                    </li>
+                    <li class="">
+                      <a href="##" class="">三级菜单</a>
+                    </li>
+                    <li class="">
+                      <a href="##" class="">三级菜单</a>
+                    </li>
+                  </ul>
+                </li>
+                <li class="am-parent">
+              </ul>
+              </li>
+    </ul>
+  </nav>

@@ -7,9 +7,12 @@ import { Component, OnInit } from '@angular/core';
 })
 export class XtyhComponent implements OnInit {
 
+  private title:string
+
   constructor() { }
 
   ngOnInit() {
+    this.title = "系统优化"
   }
 
 }
