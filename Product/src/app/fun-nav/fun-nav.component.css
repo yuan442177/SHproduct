@@ -1,0 +1,11 @@
+.funNav{
+    background: #eee
+}
+a:active
+{ 
+background-color:yellow;
+}
+ul{
+    width: 100%;
+    border-bottom: 1px solid #dedede;
+}

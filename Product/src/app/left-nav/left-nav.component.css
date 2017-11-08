@@ -1,0 +1,8 @@
+.am-list>li {
+    position: relative;
+    display: block;
+    margin-bottom: -1px;
+    background-color: #ececec;
+    border: 1px solid #dedede;
+    border-width: 0px 0;
+}
